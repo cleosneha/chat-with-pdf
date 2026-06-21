@@ -8,27 +8,27 @@ export default function Footer() {
     {
       name: "GitHub",
       icon: <Github className="w-4 h-4" />,
-      href: "https://github.com/celersneha",
+      href: "https://github.com/cleosneha",
     },
     {
       name: "LinkedIn",
       icon: <Linkedin className="w-4 h-4" />,
-      href: "https://www.linkedin.com/in/celersneha/",
+      href: "https://www.linkedin.com/in/cleosneha/",
     },
     {
       name: "Twitter",
       icon: <Twitter className="w-4 h-4" />,
-      href: "https://twitter.com/celersneha",
+      href: "https://twitter.com/cleosneha",
     },
     {
       name: "Buy me a coffee",
       icon: <Coffee className="w-4 h-4" />,
-      href: "https://buymeacoffee.com/celersneha",
+      href: "https://buymeacoffee.com/cleosneha",
     },
     {
       name: "Email",
       icon: <Mail className="w-4 h-4" />,
-      href: "mailto:celersneha@gmail.com",
+      href: "mailto:cleosneha@gmail.com",
     },
   ];
 

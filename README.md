@@ -336,14 +336,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: GitHub Issues for bug reports and feature requests
 - **Discussions**: GitHub Discussions for community support
-- **Email**: [celersneha@example.com]
+- **Email**: [cleosneha@example.com]
 
 ## 🐳 Docker Services
 
 After running `docker-compose up -d`, access:
 
 - **Adminer**: http://localhost:8080 (Database management)
-
   - Server: `postgres`
   - Username: `${POSTGRES_USER}`
   - Password: `${POSTGRES_PASSWORD}`
